@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { FaChevronDown } from "react-icons/fa";
-import CutOut from "../public/assets/Images/CutOut.png";
-import Logo from "../public/assets/Images/swiggy.png";
-import person from "../public/assets/Images/Business.jpg";
-import GroupImg from "../public/assets/Images/groupphoto.png";
-import stoa from "../public/assets/Images/stoa.png";
-import USAImg from "../public/assets/Images/USAImg.png";
-import Stoablack from "../public/assets/Images/Stoablack.png";
+import CutOut from "./images/CutOut.png";
+import Logo from "./images/swiggy.png";
+import person from "./images/Business.jpg";
+import GroupImg from "./images/groupphoto.png";
+import stoa from "./images/stoa.png";
+import USAImg from "./images/USAImg.png";
+import Stoablack from "./images/Stoablack.png";
 
 const HomePage = () => {
   const companies = Array(18).fill({ name: "Swiggy", logo: Logo });
