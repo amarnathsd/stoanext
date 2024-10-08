@@ -71,7 +71,7 @@ const HomePage = () => {
               Stoa
             </h2>
             <p className="text-xs w-3/6 text-gray-300">
-              Asia's best alternative to an MBA
+              Asias best alternative to an MBA
             </p>
             <h1 className="text-4xl font-medium leading-tight">
               Online MBA is dull, unlike Stoa. Change your career trajectory in
@@ -453,22 +453,22 @@ const HomePage = () => {
               <h2 className="font-bold text-sm mt-2">Join the info session</h2>
               <p className="text-xs w-11/12 text-gray-500">
                 Get an overview of the Program and Charter and understand if
-                it's the right fit for you.
+                its the right fit for you.
               </p>
               <h2 className="font-bold text-sm mt-2">Join the info session</h2>
               <p className="text-xs w-11/12 text-gray-500">
                 Get an overview of the Program and Charter and understand if
-                it's the right fit for you.
+                its the right fit for you.
               </p>
               <h2 className="font-bold text-sm mt-2">Join the info session</h2>
               <p className="text-xs w-11/12 text-gray-500">
                 Get an overview of the Program and Charter and understand if
-                it's the right fit for you.
+                its the right fit for you.
               </p>
               <h2 className="font-bold text-sm mt-2">Join the info session</h2>
               <p className="text-xs w-11/12 text-gray-500">
                 Get an overview of the Program and Charter and understand if
-                it's the right fit for you.
+                its the right fit for you.
               </p>
             </div>
           </div>
